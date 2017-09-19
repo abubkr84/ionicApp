@@ -1,0 +1,29 @@
+// Styles for all of the user pages:
+// Login, Signup, Support
+
+page-user {
+  .logo {
+    padding: 20px 0;
+    min-height: 200px;
+    text-align: center;
+    background-image: url('../../assets/img/testImg.png') transparent;
+
+    img {
+      max-width: 150px;
+    }
+  }
+
+  .list {
+    margin-bottom: 0;
+  }
+  .img {
+    max-width: 250px;
+  }
+  .test {
+    background-image: url('./assets/img/testImg.png') transparent;
+    background-color: green;
+    margin-top:100px;
+    margin-left: 10%;
+
+  }
+}
